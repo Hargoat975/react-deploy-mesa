@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-deploy-mesa/static/css/main.073c9b0a.css",
+    "main.js": "/react-deploy-mesa/static/js/main.4c5c4637.js",
+    "static/js/787.1cdba8f3.chunk.js": "/react-deploy-mesa/static/js/787.1cdba8f3.chunk.js",
+    "index.html": "/react-deploy-mesa/index.html",
+    "main.073c9b0a.css.map": "/react-deploy-mesa/static/css/main.073c9b0a.css.map",
+    "main.4c5c4637.js.map": "/react-deploy-mesa/static/js/main.4c5c4637.js.map",
+    "787.1cdba8f3.chunk.js.map": "/react-deploy-mesa/static/js/787.1cdba8f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4c5c4637.js"
+  ]
+}
